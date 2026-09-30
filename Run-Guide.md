@@ -1,4 +1,4 @@
-# hello.py 실행 방법
+# hello.py 실행하는법
 
 ## 1. Python 설치 확인
 
