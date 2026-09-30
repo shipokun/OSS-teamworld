@@ -1,5 +1,5 @@
 # OSS-teamworld
-Teamrepo
+Teamrepo(우리팀 과제임)
 우리 팀의 과제입니다.
 
 README 기준 줄 추가 
